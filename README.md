@@ -1,5 +1,12 @@
 # First reposity with exercises in dPrep
 
+# Deployment 
+
+I want to add some text for practice and then send it back to my repository in github 
+
+See you there in github!
+
+
 This is a basic example repository using Gnu make for a reproducible research workflow, as described in detail here: [tilburgsciencehub.com](http://tilburgsciencehub.com/). 
 
 The main aim of this to have a basic structure, which can be easily adjusted to use in an actual project.  In this example project, the following is done: 
